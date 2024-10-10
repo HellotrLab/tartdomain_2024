@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="mystyle.css">
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+<img src="file:///C:/Users/User/Pictures/socks.jpg" alt="socks">
+
+<img src="file:///C:/Users/User/Pictures/socks.jpg" alt="file:///C:/Users/User/Desktop/My_First-HTML_/inside_socks.htm" style="width:100px;height:100px;">
+</a>
+
+</body>
+</html>
